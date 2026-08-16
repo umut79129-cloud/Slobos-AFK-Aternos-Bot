@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "otistikammAM.aternos.me",
-    "port": 26666,
+    "port": 59769,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to mc komik anlar!",
         "I like to play Minecraft!"
       ]
     },
@@ -46,7 +46,7 @@
     "circle-walk": {
       "enabled": true,
       "radius": 4,
-      "speed": 3000
+      "speed": 300
     },
     "look-around": {
       "enabled": true,
